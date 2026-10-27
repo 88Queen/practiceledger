@@ -2,22 +2,36 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>PracticeLedger | Learn by Doing</title>
-  <style>
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #f4f7fb;
-      color: #17243a;
-    }
-    header {
-      background: #142b4a;
-      color:white;
-      padding: 26px 7%;
-    }
-    header h1 { margin: 0; }
-    header p {margin-bottom: 0; }
-    main { max-width: 900px; margin: auto; padding: 24px; }
+  <meta name="viewport" 
+content="width=device-width, initial-
+scale=1.0">
+    <title>Practice Ledger </title>
+    <!-- This links your CSS file (if 
+you make one ) -->
+    <link rel="stylesheet"
+href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>practiceledger</h1>
+        <p>Practical accounting and 
+South African taxation simulations for 
+students and graduates</p>
+    </header>
+
+    <main>
+        <h2>Welcome to the 
+Simulations</h2>
+        <p>Click below to start your 
+first accounting simulatio.</p>
+        <button>Start Simulation</
+button>
+    </main>
+
+</body>
+<html>
+
+              
+
     
